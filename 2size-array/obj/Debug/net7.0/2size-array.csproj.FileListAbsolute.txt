@@ -1,0 +1,15 @@
+D:\CSharp\Console\2size-array\bin\Debug\net7.0\2size-array.exe
+D:\CSharp\Console\2size-array\bin\Debug\net7.0\2size-array.deps.json
+D:\CSharp\Console\2size-array\bin\Debug\net7.0\2size-array.runtimeconfig.json
+D:\CSharp\Console\2size-array\bin\Debug\net7.0\2size-array.dll
+D:\CSharp\Console\2size-array\bin\Debug\net7.0\2size-array.pdb
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.csproj.AssemblyReference.cache
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.AssemblyInfoInputs.cache
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.AssemblyInfo.cs
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.dll
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\refint\2size-array.dll
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.pdb
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\2size-array.genruntimeconfig.cache
+D:\CSharp\Console\2size-array\obj\Debug\net7.0\ref\2size-array.dll
